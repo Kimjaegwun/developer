@@ -51,7 +51,7 @@
 
 ![Daadok](./image/daadok.png)
 
-### 기술적 관점
+### Technical
 * React 기반 Web 프론트엔드(플랫폼, 관리자) 개발 
 * React-Native 기반 APP 프론트엔드 개발
 * TypeORM 을 활용하여 사용자 / 상품 / 정기구독 서비스 DB 설계 및 적용 
@@ -60,8 +60,36 @@
 * Docker 및 Jeckins 활용하여 무중단 배포 환경 구축 
 * JWT token을 활용한 유저, 관리자, 판매자 구분
 
-### 프로젝트 관리
+### Project
 * git을 통한 코드 관리
 * 사용자 앱/웹 및 인터페이스 코드 컨벤션 준수
+* 인터페이스 정의서 및 설계안 작성
+
+
+(2) Moby
+
+- 2020.07. ~ 2020.12.
+
+- 택시를 활용한 새로운 광고 솔루션
+
+- 기술 : React, React-Native, GraphQL
+
+- 역할
+    1. 앱 UI 구성 및 Navigation 연결
+    2. SNS(kakao, naver) 로그인 구현
+    3. Subscription을 통한 택시 매칭 화면 구현
+
+![Moby](./image/moby.png)
+
+### Technical
+* React-Native 기반 APP 프론트엔드 개발
+* SDK 연동을 통한 로그인 화면 구현
+* 사용자 설문 및 매칭 시스템 구현
+
+### Project
+* git을 통한 코드 관리
+* 사용자 앱/웹 및 인터페이스 코드 컨벤션 준수
+* 인터페이스 정의서 및 설계안 작성
+
 
 
