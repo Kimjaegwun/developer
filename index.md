@@ -49,8 +49,9 @@
     2. DB 구조, 설계
     3. 정거결제 시스템 구축 
 
-![Daadok](./image/daadok.png)
+![Daadok](./image/daadok.png)ㄱ
 
+** 프로세스 추진 과정
 ![Process](./image/process.png)
 
 ### Technical
