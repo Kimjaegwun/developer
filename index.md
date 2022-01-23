@@ -14,27 +14,11 @@
 
 ![Skill](./image/doodo.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+삼성전자를 다니면서 기본적인 javascript, css 등을 공부해 왔고 창업을 하며 좀 더 이론적인 지식과 실무적인 기술을 쌓았습니다.
 
-```markdown
-Syntax highlighted code block
+2020년 하반기에 모비라는 서비스를 만들기 위해 react, react-native를 기반으로 프론트엔드를 구현하였고 graphql 서버와의 데이터 통신 방법을 익힐 수 있었습니다. 택시 호출 앱으로서 subscribing을 통한 서버와의 연결을 유지하며 실시간으로 map에 표시하는 부분을 구현하였습니다. 실제 배포를 나가진 않았지만 기능 구현과 전반적인 디자인은 끝낸 상태로 마무리하였고 개발의 토대를 쌓을 수 있는 값진 경험이었습니다.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+2021년 새로운 아이템인 daadok이라는 서비스를 기획하였습니다. 프론트엔드 뿐만 아니라 백엔드 까지 동료들과의 협업으로 처음부터 구축해 나갔습니다. 우선 탄탄한 토대를 위해 typeorm을 기반으로 정기결제에 적합한 DB를 구현하였습니다. 이를 바탕으로, 효율적인 graphql api를 만들어 프론트엔드에서의 호출을 원활히 하였습니다. 뿐만 아니라, 전반적인 프론트엔드 페이지를 구현하면서 react component, state 관리 등 다양한 기술을 익히고 적용해 안정적인 서비스를 제공하기 위해 끊임없이 노력하였습니다.
 
 ### Jekyll Themes
 
