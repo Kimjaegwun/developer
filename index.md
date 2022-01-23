@@ -51,6 +51,8 @@
 
 ![Daadok](./image/daadok.png)
 
+![Process](./image/process.png)
+
 ### Technical
 * React 기반 Web 프론트엔드(플랫폼, 관리자) 개발 
 * React-Native 기반 APP 프론트엔드 개발
