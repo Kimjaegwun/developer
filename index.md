@@ -49,12 +49,13 @@
     2. DB 구조, 설계
     3. 정거결제 시스템 구축 
 
-![Daadok](./image/daadok.png)ㄱ
+![Daadok](./image/daadok.png)
 
 ** 프로세스 추진 과정
 ![Process](./image/process.png)
 
-[Technical]
+[ Technical ]
+
 * React 기반 Web 프론트엔드(플랫폼, 관리자) 개발 
 * React-Native 기반 APP 프론트엔드 개발
 * TypeORM 을 활용하여 사용자 / 상품 / 정기구독 서비스 DB 설계 및 적용 
@@ -78,7 +79,8 @@
 
 ![Moby](./image/moby.png)
 
-[Technical]
+[ Technical ]
+
 * React-Native 기반 APP 프론트엔드 개발
 * SDK 연동을 통한 로그인 화면 구현
 * 사용자 설문 및 매칭 시스템 구현
