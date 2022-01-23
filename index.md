@@ -1,4 +1,4 @@
-## Introduction
+## About Me
 
 안녕하세요. 2년차 개발자 김재권입니다.
 
@@ -10,7 +10,9 @@
 
 동료들과의 소통이 무엇보다 중요함을 알고 개발자 분들과는 끊임없는 코드 리뷰, 기술 공유 등을 함으로써 함께 발전하는 것을 좋아합니다.
 
-### Markdown
+### Technical Skill
+
+[Image](./image/doodo.png)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
