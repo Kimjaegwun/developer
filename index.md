@@ -11,7 +11,7 @@
 동료들과의 소통이 무엇보다 중요함을 알고 개발자 분들과는 끊임없는 코드 리뷰, 기술 공유 등을 함으로써 함께 발전하는 것을 좋아합니다.
 
 
-### Technical Skill
+## Technical Skill
 
 ![Skill](./image/doodo.png)
 
@@ -21,10 +21,10 @@
 
 2021년 새로운 아이템인 daadok이라는 서비스를 기획하였습니다. 프론트엔드 뿐만 아니라 백엔드 까지 동료들과의 협업으로 처음부터 구축해 나갔습니다. 우선 탄탄한 토대를 위해 typeorm을 기반으로 정기결제에 적합한 DB를 구현하였습니다. 이를 바탕으로, 효율적인 graphql api를 만들어 프론트엔드에서의 호출을 원활히 하였습니다. 뿐만 아니라, 전반적인 프론트엔드 페이지를 구현하면서 react component, state 관리 등 다양한 기술을 익히고 적용해 안정적인 서비스를 제공하기 위해 끊임없이 노력하였습니다.
 
-#### Programing Language
+### Programing Language
   - JavaScript, Typescript, Node.js, HTML
 
-#### Framework / Library
+### Framework / Library
   - React, React-Native, GraphQL, TypeORM, Redux
 
 #### DB
@@ -34,18 +34,18 @@
   - Git, Firebase, Notion, Slack
 
 
-### Project
+## Project
 
 (1) Daadok
 
-    - 2021.01. ~ 2022.01.
+- 2021.01. ~ 2022.01.
 
-    - 생활 구독 매칭 서비스 플랫폼
+- 생활 구독 매칭 서비스 플랫폼
 
-    - 기술 : React, React-Native, GraphQL, Apollo, MySQL
+- 기술 : React, React-Native, GraphQL, Apollo, MySQL
 
-    - 역할
+- 역할
 
-        ○ 앱/웹 UI 구성 및 서버 API 환경 구축
-        ○ DB 구조, 설계
-        ○ 
+    ○ 앱/웹 UI 구성 및 서버 API 환경 구축
+    ○ DB 구조, 설계
+    ○ 
